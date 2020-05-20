@@ -1,14 +1,15 @@
 // キャッシュ名とキャッシュファイルの指定
 var CACHE_NAME = 'scorpion140309-poke-aishou';
 var urlsToCache = [
-	"/index.html",
-	"/poke_aishou_h.html",
-	"/poke_aishou_v.html",
-	"/main.css",
-	"/main_h.css",
-	"/main_v.css",
-	"/js/poke_type_database.js",
-	"/js/poke_aishou.js"
+	"/poke_aishou/",
+	"/poke_aishou/index.html",
+	"/poke_aishou/poke_aishou_h.html",
+	"/poke_aishou/poke_aishou_v.html",
+	"/poke_aishou/main.css",
+	"/poke_aishou/main_h.css",
+	"/poke_aishou/main_v.css",
+	"/poke_aishou/js/poke_type_database.js",
+	"/poke_aishou/js/poke_aishou.js"
 ];
 
 // インストール処理
