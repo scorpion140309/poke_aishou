@@ -2,10 +2,8 @@
 var CACHE_NAME = 'scorpion140309-poke-aishou-v00-00';
 var urlsToCache = [
     "index.html",
-    //"favicon.ico",
+    "favicon.ico",
     "logo/app-icon-192.png",
-    "js/poke_type_database.js",
-    "js/poke_aishou.js"
 	"main.css",
 	"main_h.css",
 	"main_v.css",
