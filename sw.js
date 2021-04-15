@@ -1,4 +1,6 @@
-var CACHE_NAME  = "pa-cache-v1-00";
+const NAME = 'pa-cache-v1-';
+const VERSION = '001';
+const CACHE_NAME = NAME + VERSION;
 
 var urlsToCache = [
     "index.html",
