@@ -1,5 +1,5 @@
 const NAME = 'pa-cache-v1-';
-const VERSION = '002';
+const VERSION = '003';
 const CACHE_NAME = NAME + VERSION;
 
 var urlsToCache = [

@@ -24,6 +24,13 @@ a:active { color: #ff8000; }
 	background-color:#ffffff;
 }
 
+.str_title
+{
+	color: #404040;
+	font-size: 48;
+	font-weight: bold;
+}
+
 .str_subtitle
 {
 	color: #404040;
@@ -45,3 +52,4 @@ a:active { color: #ff8000; }
 .center{
 	text-align: center;
 }
+
